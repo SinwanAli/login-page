@@ -1,4 +1,4 @@
-# Sign Up and Sign In Project
+##Sign Up and Sign In Project
 
 This project is a simple and responsive web page for user authentication, including sign-up and sign-in forms. It features smooth animations and social media sign-in options.
 
